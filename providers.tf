@@ -2,7 +2,7 @@
 # Provider Configuration
 #
 
-provider "aws" {
+# provider "aws" {
   region  = "us-west-1"
 }
 
